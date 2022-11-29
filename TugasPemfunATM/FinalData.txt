@@ -1,0 +1,9 @@
+
+
+==Tersimpan==
+No Kartu = 07112004
+Jenis ATM = Tarik Tunai
+Bank = Mandiri
+Nama Pemilik = Fulgen
+Nama Foto  = Screenshot 2022-11-29 223301.png
+
